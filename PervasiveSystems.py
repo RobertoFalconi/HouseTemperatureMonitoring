@@ -20,7 +20,9 @@
  * Modifications copyright (C) 2018 Roberto Falconi
  * LinkedIn: https://www.linkedin.com/in/robertofalconi95/
  * GitHub: https://github.com/RobertoFalconi95/HouseTemperatureMonitoring
- * Full description: https://www.hackster.io/Falkons/house-temperature-monitoring-with-aws-and-raspberry-3b6410
+ * Hackster Full description: https://www.hackster.io/Falkons/house-temperature-monitoring-with-aws-and-raspberry-3b6410
+ * SlideShare presentation: https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-with-amazon-web-services-and-raspberry
+ * YouTube video: https://youtu.be/gQxOSbcN79s
  *
  * Licensed under the Apache License, Version 2.0 (the "License").
  * You may not use this file except in compliance with the License.
