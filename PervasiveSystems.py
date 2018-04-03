@@ -21,7 +21,7 @@
  * LinkedIn: https://www.linkedin.com/in/robertofalconi95/
  * GitHub: https://github.com/RobertoFalconi95/HouseTemperatureMonitoring
  * Hackster Full description: https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410
- * SlideShare presentation: https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-with-amazon-web-services-and-raspberry
+ * SlideShare presentation: https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-using-aws-iot-and-raspberry-pi  
  * YouTube video: https://youtu.be/gQxOSbcN79s
  *
  * Licensed under the Apache License, Version 2.0 (the "License").
