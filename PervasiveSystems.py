@@ -18,8 +18,8 @@
 '''
 /*
  * Modifications copyright (C) 2018 Roberto Falconi
- * LinkedIn: https://www.linkedin.com/in/robertofalconi95/
- * GitHub: https://github.com/RobertoFalconi95/HouseTemperatureMonitoring
+ * LinkedIn: https://www.linkedin.com/in/roberto-falconi/
+ * GitHub: https://github.com/RobertoFalconi/HouseTemperatureMonitoring
  * Hackster Full description: https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410
  * SlideShare presentation: https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-using-aws-iot-and-raspberry-pi  
  * YouTube video: https://youtu.be/gQxOSbcN79s
