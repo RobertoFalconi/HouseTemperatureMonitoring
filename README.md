@@ -37,10 +37,13 @@ Configure your circuit to run TMP102 (Hackster link for full explaination) and c
 `$ i2cget -y 1 0x48 0 b`  
 `0x18`  
 
-If you get 48 in position 8x40 and 0x18 (which means 22 °C or something like that, it's working)  
+If you get 48 in position 8x40 and 0x18 (which means 22 °C or something like that, it's working).  
 
-Link your AWS IoT Button to your AWS Account:  
-Configure your Button: https://docs.aws.amazon.com/iot/latest/developerguide/iot-button-lambda.html  
-Configure your Raspberry Pi:  
+Link your AWS IoT Button to your AWS Account.  
+Configure your Button with AWS Lambda and Amazon SNS.  
+Configure your Raspberry Pi.  
 
+Run the MQTT Client on your RPi:  
 `$ python3 PervasiveSystems.py -e <endpoint> -r <rootCAFilePath> -c <certFilePath> -k <privateKeyFilePath>`  
+
+Double click your AWS IoT Button and checkout with a browser if TMP102 is gathering temperaturature information and if RPi is sending it to AWS Test console.
