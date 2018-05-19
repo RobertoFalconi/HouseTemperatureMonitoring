@@ -3,6 +3,8 @@ Developed smart home automation project with Node.js and Python, using AWS IoT, 
 
 If you want to read a detailed description or a step-by-step guide to replicate this project, I suggest you to check out the Hackster link written below.
 
+Project for Pervasive Systems course of MSc in Engineering in Computer Science at Sapienza, University of Rome.  
+
 # Useful Links
 LinkedIn profile:  
 - https://www.linkedin.com/in/roberto-falconi  
