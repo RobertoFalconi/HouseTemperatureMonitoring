@@ -31,6 +31,9 @@ Portfolio:
 
 NOTE: this is a brief guide to run the program. For full guide checkout the Hackster project page: https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410  
 
+For a good-looking presentation, checkout the slideshare presentation:  
+https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-using-aws-iot-and-raspberry-pi  
+
 Open a terminal window wherever you want to, then:  
 `$ git clone https://github.com/RobertoFalconi/HouseTemperatureMonitoring.git`  
 `$ cd HouseTemperatureMonitoring`  
