@@ -24,6 +24,9 @@ YouTube video:
 Pervasive Systems 2018:  
 - http://ichatz.me/Site/PervasiveSystems2018  
   
+Portfolio:
+- http://www.robertodaguarcino.com  
+  
 # How to run House Temperature Monitoring using AWS IoT and Raspberry  
 
 NOTE: this is a brief guide to run the program. For full guide checkout the Hackster project page: https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410  
