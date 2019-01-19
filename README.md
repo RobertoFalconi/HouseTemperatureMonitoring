@@ -17,11 +17,12 @@ Project for Pervasive Systems course of MSc in Engineering in Computer Science a
  
 # How to run House Temperature Monitoring using AWS IoT and Raspberry  
 
-NOTE: this is a brief guide to run the program. For full guide checkout the Hackster project page: https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410  
+NOTE: this is a brief guide to run the program. For full guide checkout the Hackster project page:  
+- https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410  
 
 For a good-looking presentation, checkout the slideshare presentation and the YouTube video:
-https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-using-aws-iot-and-raspberry-pi  
-https://youtu.be/gQxOSbcN79s  
+- https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-using-aws-iot-and-raspberry-pi  
+- https://youtu.be/gQxOSbcN79s  
 
 Open a terminal window wherever you want to, then:  
 `$ git clone https://github.com/RobertoFalconi/HouseTemperatureMonitoring.git`  
