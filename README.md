@@ -5,34 +5,23 @@ If you want to read a detailed description or a step-by-step guide to replicate 
 
 Project for Pervasive Systems course of MSc in Engineering in Computer Science at Sapienza, University of Rome.  
 
-# Useful Links
-LinkedIn profile:  
-- https://www.linkedin.com/in/roberto-falconi  
-
-GitHub repository:  
-- https://github.com/RobertoFalconi/HouseTemperatureMonitoring  
-
-Hackster full description:  
-- https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410  
-
-SlideShare presentation:  
-- https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-using-aws-iot-and-raspberry-pi  
-
-YouTube video:  
-- https://youtu.be/gQxOSbcN79s  
-
-Pervasive Systems 2018:  
-- http://ichatz.me/Site/PervasiveSystems2018  
-  
-Portfolio:
-- http://www.robertodaguarcino.com  
-  
+# Useful links
+- Portfolio: http://www.robertodaguarcino.com  
+- LinkedIn: https://www.linkedin.com/in/roberto-falconi  
+- GitHub: https://github.com/RobertoFalconi  
+- SlideShare: https://www.slideshare.net/RobertoFalconi4  
+- Hackster: https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410  
+- YouTube: https://youtu.be/gQxOSbcN79s  
+- Portfolio: http://www.robertodaguarcino.com  
+- Examinator: http://ichatz.me/Site/PervasiveSystems2018  
+ 
 # How to run House Temperature Monitoring using AWS IoT and Raspberry  
 
 NOTE: this is a brief guide to run the program. For full guide checkout the Hackster project page: https://www.hackster.io/Falkons/house-temperature-monitoring-using-aws-iot-and-raspberry-pi-3b6410  
 
-For a good-looking presentation, checkout the slideshare presentation:  
+For a good-looking presentation, checkout the slideshare presentation and the YouTube video:
 https://www.slideshare.net/RobertoFalconi4/house-temperature-monitoring-using-aws-iot-and-raspberry-pi  
+https://youtu.be/gQxOSbcN79s  
 
 Open a terminal window wherever you want to, then:  
 `$ git clone https://github.com/RobertoFalconi/HouseTemperatureMonitoring.git`  
