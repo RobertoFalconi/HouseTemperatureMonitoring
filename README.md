@@ -6,7 +6,7 @@ If you want to read a detailed description or a step-by-step guide to replicate 
 Project for Pervasive Systems course of MSc in Engineering in Computer Science at Sapienza, University of Rome.  
 
 # Useful links
-- Portfolio: http://www.robertodaguarcino.com  
+- Portfolio: https://robertodaguarcino.com  
 - LinkedIn: https://www.linkedin.com/in/roberto-falconi  
 - GitHub: https://github.com/RobertoFalconi  
 - SlideShare: https://www.slideshare.net/RobertoFalconi4  
