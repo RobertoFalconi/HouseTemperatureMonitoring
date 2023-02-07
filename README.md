@@ -1,6 +1,6 @@
 # House Temperature Monitoring using AWS IoT and Raspberry
 ## Video and description
-https://www.youtube.com/watch?v=gQxOSbcN79s
+https://www.youtube.com/watch?v=gQxOSbcN79s  
 Developed smart home automation project with Node.js and Python, using AWS IoT, AWS Lambda, Amazon SNS and a Raspberry Pi 3. With an AWS IoT Button it is possible to send an alert to housemates and to receive your house's temperature on your smartphone.
 
 If you want to read a detailed description or a step-by-step guide to replicate this project, I suggest you to check out the Hackster link written below.
